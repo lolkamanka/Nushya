@@ -1,0 +1,32 @@
+{
+    "users": {
+        "8559040618": {
+            "number": 1,
+            "user_id": 8559040618,
+            "videos_watched": 0,
+            "coins": 10,
+            "subscription": "Нет",
+            "referrals": [
+                8251687795
+            ],
+            "watched_videos": [],
+            "banned": false,
+            "sent_messages": [],
+            "favorites": []
+        },
+        "8251687795": {
+            "number": 2,
+            "user_id": 8251687795,
+            "videos_watched": 0,
+            "coins": 5,
+            "subscription": "Нет",
+            "referrals": [],
+            "watched_videos": [],
+            "banned": false,
+            "sent_messages": [],
+            "favorites": []
+        }
+    },
+    "user_counter": 2,
+    "user_last_bonus": {}
+}

@@ -1,0 +1,14 @@
+{
+    "tickets": {
+        "00001": {
+            "id": "00001",
+            "user_id": 8251687795,
+            "user_number": 2,
+            "message": "тут бля я блятутбля нахуй бляфывфывфыв",
+            "status": "closed",
+            "created_at": 23483.125,
+            "admin_response": "ytn"
+        }
+    },
+    "ticket_counter": 2
+}
